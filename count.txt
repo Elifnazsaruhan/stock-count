@@ -1,6 +1,3 @@
-echo "stapler 15" >>"Stapler 12" 
 Notebook 120
 Pencil 450
 Stapler 15
-Tape 60
-Tape 60
