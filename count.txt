@@ -1,4 +1,4 @@
 Notebook 120
 Pencil 450
-Stapler 12
+Stapler 11
 Labels 300
