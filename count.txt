@@ -4,3 +4,4 @@ Pencil 450
 Stapler 14
 >>>>>>> kaan-count
 Labels 300
+Envelopes 500
