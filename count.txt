@@ -1,8 +1,6 @@
-Notebook 120
+Notebook 118
 Pencil 450
-<<<<<<< HEAD
 Stapler 14
->>>>>>> kaan-count
 Labels 300
 Envelopes 500
 Rubber bands 900
