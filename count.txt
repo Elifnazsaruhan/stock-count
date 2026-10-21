@@ -5,3 +5,4 @@ Stapler 14
 >>>>>>> kaan-count
 Labels 300
 Envelopes 500
+Rubber bands 900
