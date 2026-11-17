@@ -50,3 +50,4 @@ git blame count.txt
 
 
 - [0001 - The count is a plain text file](docs/adr/0001-plain-text-count.md)
+- [0002 - Changes reach main through pull requests](docs/adr/0002-pull-requests-only.md)
